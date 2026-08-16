@@ -2,7 +2,9 @@
 
 ### About me
 
-Hi! I'm __17 years old__ and I live in __Chile__. 
+Hi! I'm __17 years old__ and I live in __Chile__.
+
+I give some __esoteric vibes__... I ___guess___
 
 I love __self-studying__ things I'm passionate about, mainly:
 + __Mathematics__
