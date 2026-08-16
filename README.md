@@ -2,6 +2,11 @@
 
 ### About me
 
+<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e644b557-1192-4abd-b840-029e6ed06d8a" width="25%" alt="TaMago-roll"><img src="https://github.com/user-attachments/assets/e644b557-1192-4abd-b840-029e6ed06d8a" width="25%" alt="TaMago-roll"><img src="https://github.com/user-attachments/assets/e644b557-1192-4abd-b840-029e6ed06d8a" width="25%" alt="TaMago-roll"><img src="https://github.com/user-attachments/assets/e644b557-1192-4abd-b840-029e6ed06d8a" width="25%" alt="TaMago-roll">
+</p>
+
 Hi! I'm __17 years old__ and I live in __Chile__.
 
 I give some __esoteric vibes__... I ___guess___
@@ -40,3 +45,20 @@ I like to __dive as deep as possible__ into each language, so it will take a whi
 ### Contact
 
 For now, I only have my ___github___ (you're here right now), and my ___gmail___ ([oyarzun054@gmail.com](mailto:oyarzun054@gmail.com)).
+
+<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e644b557-1192-4abd-b840-029e6ed06d8a" width="25%" alt="TaMago-roll"><img src="https://github.com/user-attachments/assets/e644b557-1192-4abd-b840-029e6ed06d8a" width="25%" alt="TaMago-roll"><img src="https://github.com/user-attachments/assets/e644b557-1192-4abd-b840-029e6ed06d8a" width="25%" alt="TaMago-roll"><img src="https://github.com/user-attachments/assets/e644b557-1192-4abd-b840-029e6ed06d8a" width="25%" alt="TaMago-roll">
+</p>
+<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e644b557-1192-4abd-b840-029e6ed06d8a" width="33.3%" alt="TaMago-roll"><img src="https://github.com/user-attachments/assets/e644b557-1192-4abd-b840-029e6ed06d8a" width="33.3%" alt="TaMago-roll"><img src="https://github.com/user-attachments/assets/e644b557-1192-4abd-b840-029e6ed06d8a" width="33.3%" alt="TaMago-roll">
+</p>
+<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e644b557-1192-4abd-b840-029e6ed06d8a" width="50%" alt="TaMago-roll"><img src="https://github.com/user-attachments/assets/e644b557-1192-4abd-b840-029e6ed06d8a" width="50%" alt="TaMago-roll">
+</p>
+<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e644b557-1192-4abd-b840-029e6ed06d8a" width="100%" alt="TaMago-roll">
+</p>
