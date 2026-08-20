@@ -24,7 +24,7 @@ I want to study as much as I can in my free time, and build up my __portfolio__ 
 
 I will be uploading the projects I work on here. They aren't huge, since they are mostly experiments or random things, but they will serve to  __document my learning journey and progress__.
 
-I also want to __improve my english__, mainly to __sound more natural__, so I will write everything here on my _github_ in english.
+I also want to __improve my english__, mainly to __sound more natural__, so I will write everything here on my github in english.
 
 ### Tools
 
